@@ -1,0 +1,8 @@
+{
+    "name": "IWant2UseToiletAgain",
+    "version_number": "0.0.1",
+    "author": "Alekzum",
+    "website_url": "https://github.com/Alekzum/votv-mod-IWant2UseToiletAgain/",
+    "description": "This mod simply shows when you can use the toilet again.",
+    "dependencies": ["Gatohost-VoidMod-2.1.0","Thunderstore-unreal_shimloader-1.0.9"]
+}
